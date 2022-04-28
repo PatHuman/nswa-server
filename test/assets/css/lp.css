@@ -1,0 +1,576 @@
+html{
+    background-color: #0d1036; 
+}
+ 
+  @media only screen and (max-height: 1264px) {
+    img.Group-73 {
+        width: 35%;
+ 
+     }
+    .Unboxing-something-n{
+        font-size: 53px;
+    }     
+ 
+} 
+.We-are-very-excited {
+    width: 100%;
+    height: 120px;
+    margin: 3.2px 57px 86px 0;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #fff;
+  }
+
+.Unboxing-something-n {
+   
+    margin: 80px 57px 36px 0;
+    font-family: Jaldi;
+    font-size: 73px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    color: #fff;
+  } 
+
+/*
+@media only screen and (max-width: 1826px) {
+ 
+    span.inner-soon {
+      font-size: 24px;
+      padding: 0;
+    }      
+}
+
+@media only screen and (min-width: 882px) {
+    .Unboxing-something-n {
+        font-size: 22px;       
+      }
+      .We-are-very-excited {
+        font-size: 10px;
+      }
+    
+  
+} */
+/* 
+2235 = 70
+2135 = 67
+2035 = 64
+1035 = 61
+635  = 31
+
+
+@media only screen and (min-width: 2378px) {
+    .Unboxing-something-n {
+        font-size: 73px;       
+      }
+      .We-are-very-excited {
+        font-size: 30px;
+      }
+ 
+} */
+/* @media only screen and (max-width: 3178px) {
+    .Unboxing-something-n {
+        font-size: 108px;       
+      }
+      .We-are-very-excited {
+        font-size: 40px;
+      }
+ 
+} */
+
+.We-are-very-excited .text-style-1 {
+  font-weight: bold;
+}
+.namebox{
+    
+
+}
+.mailbox{
+
+}
+
+
+.Coming-soon {
+    width:20%;
+    height: 120px; 
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #fff;
+    background-image: url("../img/fill-1.png"), url("../img/fill-1@2x.png"), url("../img/fill-1@3x.png");
+   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    float: right;
+    text-align: center;
+    margin-right: 150px; 
+  }
+.To-be-sure-not-to-mi {
+  width: 100%;
+  height: 48px;
+  margin: 63px 57px 67px 0;
+  font-family: Jaldi;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.09;
+  letter-spacing: normal;
+  color: #00acd7;
+}
+.name-field{
+    margin-right:45px
+ }
+ .Rectangle {
+    width: 100%;
+  height: 100%;  
+  padding: 54px 0 0 156px;
+  background-color: #0d1036; 
+  
+}
+img.Group-3 {
+    width: 85%;
+    margin-top: 400px;
+    margin-right: 50px;
+    bottom: 0;
+  
+    
+  }
+  img.inbox{
+    width:46%;
+    /* height: 20%; */
+   
+  }
+  .left-side{
+    padding-top:150px;
+
+}  
+div.Fill-1 {
+    width: 30%; 
+    padding: 14.7px 34.6px 0 32.5px;
+    object-fit: contain;  
+  }
+img.Group-73 {
+    width: 35%;
+    bottom:0;
+    position: fixed;
+    /* text-align: center; */
+    /* height: auto; */
+ 
+ 
+    margin: 84px 95px 160px 75px;
+ 
+   /* width: 530px; */
+   /* height: 530px; */
+   /* margin: 74px 62px 88px 140px;
+   object-fit: contain;
+    */
+ } 
+ span.inner-soon{
+    padding: 10px 10xp 10px 0;
+    font-family: Gochi Hand;
+  font-size: 34px;
+
+} 
+ 
+@media only screen and   (max-width: 2240px) {
+
+    .Unboxing-something-n{
+        font-size: 53px;
+    } 
+}
+ 
+  @media only screen and   (max-width: 1880px) {
+
+    .Unboxing-something-n{
+        font-size: 43px;
+    }    
+    .We-are-very-excited {
+ 
+        font-size: 18px;
+ 
+      }
+     
+ 
+    .To-be-sure-not-to-mi{
+        margin: -18px 57px 40px 0;
+        font-size: 20px;
+       
+    }
+    .name-field{
+        margin-right:0
+    }
+    .Rectangle {   
+      padding: 54px 54px 0 54px; 
+      
+    } 
+
+    img.Group-73 {
+        width: 40%;
+        bottom:0;
+        position: fixed;
+     
+     
+     
+        margin: 84px 95px -24px -8px;
+      
+     }  
+     img.Group-3 {
+        width: 100%;
+        margin-top: 400px;
+        margin-right: 50px;
+        bottom: 0;
+      
+        
+      }   
+      img.inbox{
+        width:50%;
+        margin: 0 95px -50px -36px;
+        
+       
+      } 
+      span.inner-soon {
+     
+        font-size: 30px;
+    } 
+  }     
+  @media only screen and   (max-width: 960px) {
+    .left-side {
+        padding-top: 20px;
+    } 
+    .Unboxing-something-n {
+        font-size: 40px; 
+      }
+      .We-are-very-excited {
+        font-size: 20px;
+      } 
+      div.Fill-1{
+        width:100%;
+        padding: 10px 34.6px 0 32.5px;
+         
+      }
+    .To-be-sure-not-to-mi{
+        margin: 123px 57px 67px 0;
+        font-size: 20px;
+       
+    }
+    .name-field{
+        margin-right:0
+    }
+    .Rectangle {   
+      padding: 54px 54px 0 54px; 
+      
+    } 
+
+    img.Group-73 {
+        width: 100%;
+        bottom:0;
+        position: fixed;
+     
+     
+     
+        margin: 84px 95px -219px -95px;
+      
+     }  
+     img.Group-3 {
+        width: 100%;
+        margin-top: 400px;
+        margin-right: 50px;
+        bottom: 0;
+      
+        
+      }  
+      img.inbox{
+        width:100%;
+        margin: 0 95px -50px -95px;
+        /* height: 20%; */
+       
+      } 
+      span.inner-soon {
+     
+        font-size: 34px;
+    }
+    .btnBox{
+        text-align:center;
+    } 
+    @media only screen and   (max-height: 1750px) {
+        .right-back-side{
+            display: none;
+        }
+        .right-side{
+            display: none;
+        }        
+    }
+    @media only screen and  (max-width: 700px) {
+        .Unboxing-something-n {
+            font-size: 32px; 
+          }
+          span.inner-soon {
+     
+            font-size: 30px;
+        } 
+        .left-side {
+            padding-top: 20px;
+        } 
+                 
+    }        
+  }   
+  
+  @media only screen and   (max-width: 400px) {
+    .left-side {
+        padding-top: 20px;
+    }  
+    span.inner-soon {
+     
+        font-size: 15px;
+    } 
+    div.Fill-1{
+        width:100%;
+        padding: 7px 10px 0 10px;
+    
+         
+      } 
+      .Coming-soon.Fill-1{
+          margin-left: 50px;
+          margin-right: 50px; 
+          height: 35px;
+      }
+    .Unboxing-something-n {
+        font-size: 14px; 
+      }
+      .We-are-very-excited {
+        font-size: 12px;
+        margin: 0;
+      } 
+
+    .To-be-sure-not-to-mi{
+        margin: 35px 57px 67px 0;
+        /* margin: 0; */
+        font-size: 15px;
+       
+    }
+    .name-field{
+        margin-right:0
+    }
+    .Rectangle {   
+      padding: 54px 54px 0 54px; 
+      
+    } 
+
+
+      span.inner-soon {
+     
+        font-size: 15px;
+    }
+    .btnBox{
+        text-align:center;
+    } 
+    @media only screen and   (max-height: 1750px) {
+        .right-back-side{
+            display: none;
+        }
+        .right-side{
+            display: none;
+        }  
+         
+    }
+    @media only screen and  (max-width: 700px) {
+        .Unboxing-something-n {
+            font-size: 14px; 
+          }
+       
+        
+                 
+    }        
+  }    
+.input-err{
+    border: 3px solid red;
+  }
+
+
+
+
+    .top-right{
+        width: 50%;
+        text-align: right; 
+        float: right;
+        padding-right: 150px;
+        top: 5px;
+    }
+    .top-left{
+        width: 50%; 
+        float: left;
+        top: 5px;
+    }
+	.nav-link svg {
+		margin-right: 5px;
+		vertical-align: middle;
+	}
+	.nav-link span {
+		vertical-align: middle;
+	}
+	.ant-menu-submenu-popup {
+		width: 100%;
+	}
+
+img.Icon { 
+  margin: 20px 0 0 45px 
+}
+
+@media only screen and   (max-width: 960px) {
+
+
+    div.Fill-1{
+      width:100%;
+       
+    }
+  } 
+/* img.Fill-1 {
+  width: 30%;
+ 
+  object-fit: contain;
+ 
+} */
+    
+img.uchop_logoslogan_inverted_rgb-2 {
+  width: 45%;
+ 
+cursor: pointer;
+}    
+
+ 
+@media only screen and (max-height: 1024px) {
+    img.Group-73 {
+        width: 15%;
+ 
+     }
+    /* .Unboxing-something-n{
+        font-size: 33px;
+    }      */
+ 
+} 
+
+
+@media only screen and (max-height: 600px) {
+    img.Group-73 {
+        width: 15%;
+ 
+     }
+    .Unboxing-something-n{
+        font-size: 33px;
+    }     
+ 
+}   
+ 
+ 
+ @media only screen and (max-height: 1024px) {
+    img.Group-73 {
+        width: 40%;
+ 
+     }
+
+    /* .Unboxing-something-n{
+        font-size: 43px;
+    }      */
+ 
+}
+
+.mail{
+   margin-left:45px
+}
+
+
+span.Fill-2 {
+  /* width: 100%; */
+  /* height: 100%; */
+  /* margin: 141.8px 155.3px 3.2px 149.7px;   */
+  object-fit: contain;
+  transform: rotate(-1deg);
+  /* background-color: #fcb614; */
+}
+ .right-back-side{
+   bottom: 0;
+   position: fixed;
+    width: 100%;
+   /* height: 70%;   */
+   margin-left: 5%;
+  background-image: url("../img/group-73@3x.png") ; 
+   /* url("../assets/img/group-3@2x.png"), */
+  /* background-size: 85%;
+  background-repeat: no-repeat; */
+  
+} 
+
+ .right-side{
+   bottom: 0;
+   position: fixed;
+    width: 100%;
+   /* height: 50%;   */
+  /* background-image: url("../assets/img/group-73@3x.png") ;  */
+   /* url("../assets/img/group-3@2x.png"), */
+  /* background-size: 85%;
+  background-repeat: no-repeat; */
+  
+} 
+
+
+div.Group-73 {
+  width: 300px;
+  height: auto;
+  /* height: 350px; */
+  /* margin: 74px 62px 88px 140px; */
+  object-fit: contain;
+}
+
+.submit-btn{
+  width: 95%;  
+  height: 65px;
+  margin-top: 20px;
+ color: white;
+ font-weight: bold;
+ /* font-size: 32px; */
+}
+.Rectangle-Copy-3 {
+  width: 97%;
+  height: 55px;
+  margin: 16px 57px 135px 0;
+  padding: 14px 236.5px 10px 237.5px;  
+   border-radius: 24px;
+   text-align: center;
+   text-transform:capitalize;
+   cursor: pointer;
+  background-color: #00acd7;
+}
+.Rectangle-Copy-2 {
+  width: 100%;
+  height: 55px;
+  margin: 24px 57px 16px 16px;
+  /* padding: 12px 16px; */
+  border-radius: 24px;
+  border: solid 1px #fff;
+  background-color: #fff;
+}
+.Rectangle-Copy {
+  width: 100%;
+  height: 55px;
+  margin: 24px 16px 16px 0;
+  /* padding: 12px 16px; */
+  border-radius: 24px;
+  border: solid 1px #fff;
+  background-color: #fff;
+}
+
+span.unboxing{ 
+   background-image: url("../img/fill-2@3x.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
